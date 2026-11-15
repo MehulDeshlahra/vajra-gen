@@ -65,9 +65,11 @@
    "start_image": "assets/gen-start/p2-column.jpg",
    "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a tall column shuttered with plain grey VAJRA panels on a rooftop site) and continue it: On the rooftop, a carpenter marks a plain grey VAJRA panel with chalk, runs a handheld circular saw through it smoothly with minimal dust, and fits the cut piece perfectly onto the column shuttering. A person in the clip says \"VAJRA kaatna bahut aasan hai\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
    "line": "VAJRA kaatna bahut aasan hai",
-   "status": "todo",
+   "status": "done",
    "tries": 0,
-   "out": "assets/clips/gen/gen-1116-0211-2.mp4"
+   "out": "clips/gen-1116-0211-2.mp4",
+   "done_at": "2026-11-16T02:14+05:30",
+   "secs": 80
   },
   {
    "id": "gen-1116-0211-3",
