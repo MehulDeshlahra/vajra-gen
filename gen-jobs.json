@@ -91,8 +91,11 @@
    "kind": "image",
    "size": "9:16",
    "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. SET (keep identical in every shot): the ground floor of a half-built two-storey Indian brick house, a freshly cast concrete slab overhead held up by bamboo props, red brick walls, a steel ladder on the left, afternoon golden sunlight from the right, camera at waist height facing the back wall. The characters stand together in this set, all clearly visible, facing the camera, ready to talk: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it.",
-   "status": "todo",
-   "tries": 0
+   "status": "done",
+   "tries": 0,
+   "done_at": "2026-11-16T02:32+05:30",
+   "secs": 49,
+   "out": "clips/ep-1116-0230-0.webp"
   },
   {
    "id": "ep-1116-0230-1",
