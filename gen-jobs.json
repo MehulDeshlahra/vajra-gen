@@ -51,9 +51,11 @@
    "start_image": "assets/gen-start/ply-pile.jpg",
    "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a pile of old broken brown plywood boards at an Indian site) and continue it: A worker kicks the pile of broken brown plywood, picks up a splintered piece, and the edge crumbles in his hand as he shakes his head at the waste. A person in the clip says \"Ye purana ply ab kaam ka nahi\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
    "line": "Ye purana ply ab kaam ka nahi",
-   "status": "todo",
+   "status": "done",
    "tries": 0,
-   "out": "assets/clips/gen/gen-1116-0211-1.mp4"
+   "out": "clips/gen-1116-0211-1.mp4",
+   "done_at": "2026-11-16T02:12+05:30",
+   "secs": 75
   },
   {
    "id": "gen-1116-0211-2",
