@@ -8,9 +8,11 @@
    "start_image": "assets/photos/ply-pile.jpg",
    "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a pile of old broken brown plywood boards at an Indian site) and continue it: A worker struggles to cut a warped brown plywood board on sawhorses; the saw binds and splinters fly. The contractor watches, wiping sweat, and shakes his head at the wasted material. A person in the clip says \"Tuta hua ply kaatna sir dard hai\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. No subtitles, no on-screen text, no watermarks.",
    "line": "Tuta hua ply kaatna sir dard hai",
-   "status": "todo",
+   "status": "done",
    "tries": 0,
-   "out": "assets/clips/gen/gen-1116-0146-1.mp4"
+   "out": "clips/gen-1116-0146-1.mp4",
+   "done_at": "2026-11-16T01:48+05:30",
+   "secs": 118
   },
   {
    "id": "gen-1116-0146-2",
