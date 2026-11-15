@@ -133,8 +133,11 @@
    "start_image": "@ep-1116-0230-0",
    "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. Start exactly from this image (same set, same characters, same looks). 10 seconds, the camera stays in this set. Characters, all visible together: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it. Action: Vajra Sheet demonstrates gentle prying with tool, Ply Bhaiya comes off clean, both smile. VAJRA SHEET says \"Slowly nikal lo, follow karo Shuttering Ki Duniya\" in clear Hindi with a matching moving mouth. Sound: only that line, light site ambience, soft playful background music. Do NOT add subtitles or any on-screen text.",
    "line": "Slowly nikal lo, follow karo Shuttering Ki Duniya",
-   "status": "todo",
-   "tries": 0
+   "status": "done",
+   "tries": 0,
+   "done_at": "2026-11-16T02:37+05:30",
+   "secs": 107,
+   "out": "clips/ep-1116-0230-3.mp4"
   }
  ],
  "batches": {
