@@ -22,9 +22,11 @@
    "start_image": "assets/photos/column-smooth2.jpg",
    "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a smooth finished concrete column on site) and continue it: Camera pans from the smooth finished concrete column to a worker making a clean, straight cut on a plain grey VAJRA sheet with a circular saw. The cut edge is smooth; the contractor taps the sheet approvingly. A person in the clip says \"Finish smooth hai cutting bhi aasan laga\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. No subtitles, no on-screen text, no watermarks.",
    "line": "Finish smooth hai cutting bhi aasan laga",
-   "status": "todo",
+   "status": "done",
    "tries": 0,
-   "out": "assets/clips/gen/gen-1116-0146-2.mp4"
+   "out": "clips/gen-1116-0146-2.mp4",
+   "done_at": "2026-11-16T01:50+05:30",
+   "secs": 87
   },
   {
    "id": "gen-1116-0146-3",
