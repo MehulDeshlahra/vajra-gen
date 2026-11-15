@@ -1,1 +1,59 @@
-{"jobs": [], "batches": {}}
+{
+ "jobs": [
+  {
+   "id": "gen-1116-0146-1",
+   "batch": "gen-1116-0146",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/photos/ply-pile.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a pile of old broken brown plywood boards at an Indian site) and continue it: A worker struggles to cut a warped brown plywood board on sawhorses; the saw binds and splinters fly. The contractor watches, wiping sweat, and shakes his head at the wasted material. A person in the clip says \"Tuta hua ply kaatna sir dard hai\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. No subtitles, no on-screen text, no watermarks.",
+   "line": "Tuta hua ply kaatna sir dard hai",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0146-1.mp4"
+  },
+  {
+   "id": "gen-1116-0146-2",
+   "batch": "gen-1116-0146",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/photos/column-smooth2.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a smooth finished concrete column on site) and continue it: Camera pans from the smooth finished concrete column to a worker making a clean, straight cut on a plain grey VAJRA sheet with a circular saw. The cut edge is smooth; the contractor taps the sheet approvingly. A person in the clip says \"Finish smooth hai cutting bhi aasan laga\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. No subtitles, no on-screen text, no watermarks.",
+   "line": "Finish smooth hai cutting bhi aasan laga",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0146-2.mp4"
+  },
+  {
+   "id": "gen-1116-0146-3",
+   "batch": "gen-1116-0146",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/photos/p2-column.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a tall column shuttered with plain grey VAJRA panels on a rooftop site) and continue it: On a breezy rooftop, workers lift and align tall plain grey VAJRA panels for a column. One worker quickly trims a panel corner on-site with a handsaw, fits it tight, and locks the clamp. A person in the clip says \"VAJRA se cutting aur fitting dono easy\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. No subtitles, no on-screen text, no watermarks.",
+   "line": "VAJRA se cutting aur fitting dono easy",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0146-3.mp4"
+  }
+ ],
+ "batches": {
+  "gen-1116-0146": {
+   "status": "waiting",
+   "created": "2026-11-16T01:46+05:30",
+   "title": "Easy Cutting Focus Reel",
+   "hook": "Purana ply kaatne ka jhanjhat khatam",
+   "angle": "easy cutting",
+   "photos": [
+    "ply-pile",
+    "column-smooth2",
+    "p2-column"
+   ],
+   "lines": [
+    "Tuta hua ply kaatna sir dard hai",
+    "Finish smooth hai cutting bhi aasan laga",
+    "VAJRA se cutting aur fitting dono easy"
+   ]
+  }
+ }
+}
