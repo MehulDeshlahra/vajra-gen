@@ -84,6 +84,48 @@
    "out": "clips/gen-1116-0211-3.mp4",
    "done_at": "2026-11-16T02:15+05:30",
    "secs": 73
+  },
+  {
+   "id": "ep-1116-0230-0",
+   "batch": "ep-1116-0230",
+   "kind": "image",
+   "size": "9:16",
+   "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. SET (keep identical in every shot): the ground floor of a half-built two-storey Indian brick house, a freshly cast concrete slab overhead held up by bamboo props, red brick walls, a steel ladder on the left, afternoon golden sunlight from the right, camera at waist height facing the back wall. The characters stand together in this set, all clearly visible, facing the camera, ready to talk: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it.",
+   "status": "todo",
+   "tries": 0
+  },
+  {
+   "id": "ep-1116-0230-1",
+   "batch": "ep-1116-0230",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "@ep-1116-0230-0",
+   "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. Start exactly from this image. 10 seconds, the camera stays in this set. Characters, all visible together: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it. Action: Ply Bhaiya gets hit by hammer, cracks visibly, Vajra Sheet watches concerned. PLY BHAIYA says \"Arre bhai! Hathoda maarna band karo!\" in clear Hindi with a matching moving mouth. Sound: only that line, light site ambience, soft playful background music. Do NOT add subtitles or any on-screen text.",
+   "line": "Arre bhai! Hathoda maarna band karo!",
+   "status": "todo",
+   "tries": 0
+  },
+  {
+   "id": "ep-1116-0230-2",
+   "batch": "ep-1116-0230",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "@ep-1116-0230-0",
+   "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. Start exactly from this image (same set, same characters, same looks). 10 seconds, the camera stays in this set. Characters, all visible together: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it. Action: Vajra Sheet points at cracked Ply Bhaiya, shows damaged edges and wasted material. VAJRA SHEET says \"Hathoda ply todta hai, waste badhta hai\" in clear Hindi with a matching moving mouth. Sound: only that line, light site ambience, soft playful background music. Do NOT add subtitles or any on-screen text.",
+   "line": "Hathoda ply todta hai, waste badhta hai",
+   "status": "todo",
+   "tries": 0
+  },
+  {
+   "id": "ep-1116-0230-3",
+   "batch": "ep-1116-0230",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "@ep-1116-0230-0",
+   "prompt": "High-quality 3D animated cartoon in a Pixar-like style, vertical 9:16, warm golden light, expressive faces with big eyes, construction objects that are alive and talk. No humans. No text, letters, logos, name tags or subtitles. Start exactly from this image (same set, same characters, same looks). 10 seconds, the camera stays in this set. Characters, all visible together: PLY BHAIYA: an old brown wooden plywood board with a tired grumpy face, swollen chipped edges, a few cracks, a small bandage on one corner; deep tired voice. VAJRA SHEET: a tall rectangular light-grey hollow plastic shuttering sheet (thin edge shows small hollow channels), standing upright, calm confident smiling face, two thin grey arms, friendly clear voice; completely plain surface with NO words, letters or logo on it. Action: Vajra Sheet demonstrates gentle prying with tool, Ply Bhaiya comes off clean, both smile. VAJRA SHEET says \"Slowly nikal lo, follow karo Shuttering Ki Duniya\" in clear Hindi with a matching moving mouth. Sound: only that line, light site ambience, soft playful background music. Do NOT add subtitles or any on-screen text.",
+   "line": "Slowly nikal lo, follow karo Shuttering Ki Duniya",
+   "status": "todo",
+   "tries": 0
   }
  ],
  "batches": {
@@ -119,6 +161,23 @@
     "Ye purana ply ab kaam ka nahi",
     "VAJRA kaatna bahut aasan hai",
     "Finish sharp hai, sheet bhi naya"
+   ]
+  },
+  "ep-1116-0230": {
+   "kind": "series",
+   "status": "waiting",
+   "created": "2026-11-16T02:30+05:30",
+   "title": "De-shuttering Ka Sahi Tarika",
+   "hook": "Hathode se ply todna badi galti",
+   "topic": "De-shuttering mein ply todna: hathode se maarna galat, sahi tarika",
+   "cast": [
+    "ply",
+    "vajra"
+   ],
+   "lines": [
+    "Arre bhai! Hathoda maarna band karo!",
+    "Hathoda ply todta hai, waste badhta hai",
+    "Slowly nikal lo, follow karo Shuttering Ki Duniya"
    ]
   }
  }
