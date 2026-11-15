@@ -79,9 +79,11 @@
    "start_image": "assets/gen-start/finish-column.jpg",
    "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a finished concrete column just after VAJRA shuttering was removed) and continue it: Workers strip the plain grey VAJRA panels off the cured column revealing a sharp, clean concrete finish, then stack the used sheets flat and undamaged beside the column. A person in the clip says \"Finish sharp hai, sheet bhi naya\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
    "line": "Finish sharp hai, sheet bhi naya",
-   "status": "todo",
+   "status": "done",
    "tries": 0,
-   "out": "assets/clips/gen/gen-1116-0211-3.mp4"
+   "out": "clips/gen-1116-0211-3.mp4",
+   "done_at": "2026-11-16T02:15+05:30",
+   "secs": 73
   }
  ],
  "batches": {
