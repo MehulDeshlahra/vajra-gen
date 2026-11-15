@@ -42,6 +42,42 @@
    "error": "HTTP Error 502: Bad Gateway",
    "done_at": "2026-11-16T02:00+05:30",
    "secs": 93
+  },
+  {
+   "id": "gen-1116-0211-1",
+   "batch": "gen-1116-0211",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/gen-start/ply-pile.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a pile of old broken brown plywood boards at an Indian site) and continue it: A worker kicks the pile of broken brown plywood, picks up a splintered piece, and the edge crumbles in his hand as he shakes his head at the waste. A person in the clip says \"Ye purana ply ab kaam ka nahi\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
+   "line": "Ye purana ply ab kaam ka nahi",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0211-1.mp4"
+  },
+  {
+   "id": "gen-1116-0211-2",
+   "batch": "gen-1116-0211",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/gen-start/p2-column.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a tall column shuttered with plain grey VAJRA panels on a rooftop site) and continue it: On the rooftop, a carpenter marks a plain grey VAJRA panel with chalk, runs a handheld circular saw through it smoothly with minimal dust, and fits the cut piece perfectly onto the column shuttering. A person in the clip says \"VAJRA kaatna bahut aasan hai\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
+   "line": "VAJRA kaatna bahut aasan hai",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0211-2.mp4"
+  },
+  {
+   "id": "gen-1116-0211-3",
+   "batch": "gen-1116-0211",
+   "kind": "video",
+   "size": "9:16",
+   "start_image": "assets/gen-start/finish-column.jpg",
+   "prompt": "Realistic vertical 9:16 phone video, 10 seconds, natural light, steady handheld camera. Start exactly from this photo (a finished concrete column just after VAJRA shuttering was removed) and continue it: Workers strip the plain grey VAJRA panels off the cured column revealing a sharp, clean concrete finish, then stack the used sheets flat and undamaged beside the column. A person in the clip says \"Finish sharp hai, sheet bhi naya\" in clear Hindi. Any shuttering sheet that is grey must stay plain light grey with no text, letters or logo. Plywood is brown wood. Do NOT add subtitles, captions or any on-screen text; no watermarks.",
+   "line": "Finish sharp hai, sheet bhi naya",
+   "status": "todo",
+   "tries": 0,
+   "out": "assets/clips/gen/gen-1116-0211-3.mp4"
   }
  ],
  "batches": {
@@ -60,6 +96,23 @@
     "Tuta hua ply kaatna sir dard hai",
     "Finish smooth hai cutting bhi aasan laga",
     "VAJRA se cutting aur fitting dono easy"
+   ]
+  },
+  "gen-1116-0211": {
+   "status": "waiting",
+   "created": "2026-11-16T02:11+05:30",
+   "title": "VAJRA Easy Cutting Demo",
+   "hook": "Shuttering kaatna ab bahut aasan",
+   "angle": "easy cutting",
+   "photos": [
+    "ply-pile",
+    "p2-column",
+    "finish-column"
+   ],
+   "lines": [
+    "Ye purana ply ab kaam ka nahi",
+    "VAJRA kaatna bahut aasan hai",
+    "Finish sharp hai, sheet bhi naya"
    ]
   }
  }
